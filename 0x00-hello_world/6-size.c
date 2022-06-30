@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point 
- *
  * Return: Alwats 0 (success)
  */
 int main(void)
