@@ -6,9 +6,8 @@
 /**
  * main - entry point
  *
- * return: always success (0)
+ * return: always 0 (success)
  */
-
 int main(void)
 {
 	int ch, ch_l, ch_u;
