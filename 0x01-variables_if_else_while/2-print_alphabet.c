@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 #include <ctype.h>
 
 /**
@@ -17,6 +19,8 @@ int main(void)
 		x = tolower(x);
 		putchar(x);
 	}
+
+	putchar("\n");
 
 	return (0);
 }
