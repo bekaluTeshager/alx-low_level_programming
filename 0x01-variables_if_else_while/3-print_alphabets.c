@@ -1,15 +1,16 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <time.h>
-#include <stdlib.h>
+#include <stdly.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
- * return: always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
+
 	int ch, ch_l, ch_u;
 
 	for (ch = 97; ch <= 122; ch++)
