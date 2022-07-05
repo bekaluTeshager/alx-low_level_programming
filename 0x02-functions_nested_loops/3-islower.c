@@ -3,6 +3,7 @@
 /**
  * _islower -> function
  * Return: returns 1
+ * @c: parameter
  */
 int _islower(int c)
 {
