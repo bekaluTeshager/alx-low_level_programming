@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _islower - function
- *
+ * _islower -> function
+ * Return: returns 1
  */
 int _islower(int c)
 {
