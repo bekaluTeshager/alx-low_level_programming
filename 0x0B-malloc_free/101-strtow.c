@@ -46,7 +46,7 @@ char **strtow(char *str)
 	if (matrix == NULL)
 		return (NULL);
 
-	for (i = 0; i <= len; i++)
+	for (j = 0; j <= len; j++)
 	{
 		if (str[i] == ' ' || str[i] == '\0')
 		{
