@@ -1,1 +1,1 @@
-dynamic libraties
+readme file for dynamic libray
